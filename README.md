@@ -1,5 +1,13 @@
 # 🏀 NBA Player Performance & MVP Analysis (SQL)
 
+## 📊 Key Findings
+
+- **Michael Jordan** consistently ranked among the top scorers across multiple seasons, highlighting sustained elite scoring performance.
+- **Mark Jackson** emerged as a leading playmaker when ranking players by assists per game.
+- **Skylar Mays** recorded the highest year-over-year improvement in the 2022 season based on combined gains in points, rebounds, and assists.
+- Efficiency analysis showed that **high-usage players do not always maintain higher True Shooting (TS%)**, indicating a trade-off between volume and efficiency.
+
+---
 Fans are always debating who the GOAT is — this project brings **data into the conversation**.  
 Using multi-season NBA player statistics, this analysis explores player performance, era-based trends, team impact, and identifies **data-driven MVPs** using statistical weighting.
 
